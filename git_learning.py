@@ -11,3 +11,5 @@ for nazwa in sklep1.keys():
 for nazwa in sklep2.keys():
     for rzecz in sklep2.values():
         print (f"Idę do {nazwa.capitalize()}, kupuję tu następujące rzeczy:", rzecz)
+lista = ("marchew", "seler", "rukola", "chleb", "pączek", "bułki")
+print ("W sumie kupię ", len(lista),"produktów")
