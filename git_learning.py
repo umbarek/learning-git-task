@@ -13,3 +13,4 @@ for nazwa in sklep2.keys():
         print (f"Idę do {nazwa.capitalize()}, kupuję tu następujące rzeczy:", rzecz)
 lista = ("marchew", "seler", "rukola", "chleb", "pączek", "bułki")
 print ("W sumie kupię ", len(lista),"produktów")
+print ("To jest koniec zadania")
