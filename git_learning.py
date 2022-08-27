@@ -18,3 +18,4 @@ for nazwa in sklep3.keys():
         print (f"Idę do {nazwa.capitalize()}, kupuję tu następujące rzeczy:", rzecz)
 print ("W sumie kupię ", len(lista),"produktów")
 print ("To jest koniec zadania")
+# Specjalne pozdrowienia dla Mentora!
